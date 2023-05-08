@@ -8,6 +8,7 @@ Instructions:
 2. If you did not complete the assignment for Module 1, download “M1 Assignment Data.zip” from Blackboard and extract it into your repository. If you did complete the assignment for Module 1, then you will use that data in this assignment. 
 3. The “Lyrics and Description EDA.ipynb” file within the repository holds the starting code and instructions for the assignment. 
 4. Work through the notebook, performing the steps asked of you. Use and extend the code from the chapters of your textbook. 
+5. Part of the data in the folder named twitter is obtained using Twitter API. 
 
 Assignment Materials:
 * [Tokenization, Normalization, and Descriptive Statistics Repository](https://github.com/roozbehsadeghian/ads-tm-token-norm)
