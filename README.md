@@ -10,7 +10,7 @@ Instructions:
 4. Work through the notebook, performing the steps asked of you. Use and extend the code from the chapters of your textbook. 
 
 Assignment Materials:
-* [Tokenization, Normalization, and Descriptive Statistics Repository](https://github.com/37chandler/ads-tm-token-norm)
+* [Tokenization, Normalization, and Descriptive Statistics Repository](https://github.com/roozbehsadeghian/ads-tm-token-norm)
 * (Optional) M1 Assignment Data.zip
 
 
