@@ -5,7 +5,7 @@ This assignment gives you the opportunity to practice the techniques of this mod
 Instructions: 
 
 1. Create a repository under your GitHub account from this template: https://github.com/roozbehsadeghian/ads-tm-api-scrape. Instructions can be found [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template). Make your repository public or add your instructor’s Github account as a [collaborator](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository). 
-2. If you did not complete the assignment for Module 1, download “M1 Assignment Data.zip” from Blackboard and extract it into your repository. This folder includes not only what you did in last module, but also information of followers of the singers on twitter. You have an optional section on the assignment to work with this data too.  
+2. If you did not complete the assignment for Module 1, download “M1 Assignment Data.zip” from Blackboard and extract it into your repository. This folder includes not only what you did in last module, but also information of followers of the singers on twitter.  
 3. The “Lyrics and Description EDA.ipynb” file within the repository holds the starting code and instructions for the assignment. 
 4. Work through the notebook, performing the steps asked of you. Use and extend the code from the chapters of your textbook. 
 5. Part of the data in the folder named twitter is obtained using Twitter API. 
