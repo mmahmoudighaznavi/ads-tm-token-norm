@@ -18,5 +18,5 @@ Deliverables:
 * When you have finished your code, print both of your notebooks as PDFs and upload these documents to Blackboard. 
 * Commit your code and push the changes to GitHub so your instructor has access to the ipynb notebook files and any other code you create. 
 
-This repository is originally created by 37chandler.
+This repository is originally created by https://github.com/37chandler.
 
